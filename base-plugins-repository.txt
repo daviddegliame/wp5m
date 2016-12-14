@@ -14,3 +14,4 @@ https://wordpress.org/plugins/widget-logic/
 https://wordpress.org/plugins/yet-another-related-posts-plugin/
 https://wordpress.org/plugins/w3-total-cache/
 https://wordpress.org/plugins/contact-form-7/
+https://wordpress.org/plugins/imsanity/
