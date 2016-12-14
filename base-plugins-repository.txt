@@ -1,0 +1,16 @@
+https://wordpress.org/plugins/block-bad-queries/
+https://wordpress.org/plugins/custom-comment-form-title/
+https://wordpress.org/plugins/redirection/
+https://wordpress.org/plugins/autodescription/
+https://wordpress.org/plugins/disable-embeds/
+https://wordpress.org/plugins/disable-emojis/
+https://wordpress.org/plugins/thumbnail-upscale/
+https://wordpress.org/plugins/regenerate-thumbnails/
+https://wordpress.org/plugins/wordpress-importer/
+https://wordpress.org/plugins/sx-no-author-pagination/
+https://wordpress.org/plugins/sx-no-homepage-pagination/
+https://wordpress.org/plugins/wp-optimize/
+https://wordpress.org/plugins/widget-logic/
+https://wordpress.org/plugins/yet-another-related-posts-plugin/
+https://wordpress.org/plugins/w3-total-cache/
+https://wordpress.org/plugins/contact-form-7/
