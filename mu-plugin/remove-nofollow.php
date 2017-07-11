@@ -9,8 +9,6 @@ Version: 2016.03.17
 
 defined('ABSPATH') or die('Cheatin\' uh?'); 
 
-strtolower(basename(__FILE__))!='index.php' && strtolower(basename(__FILE__))!='alicia.php' 
-or wp_die('<p>You have to rename this file before continuing because its name is not secure:</p>'.'<p>'.trailingslashit(dirname(__FILE__)).'<b>'.basename(__FILE__).'</b></p>'.'<p>Try this one: <input value="'.uniqid('baw-keys-').'.php" size="30"/><p>');
 if(realpath(dirname(__FILE__))!=realpath(WPMU_PLUGIN_DIR))
 {
   wp_die('<p>This is not a <i>plugin</i> but a <i>mu-plugins</i>, please drop it in :<br/>'.'<b>'.realpath(WPMU_PLUGIN_DIR).'</b><br />Thanks.</p>' );
