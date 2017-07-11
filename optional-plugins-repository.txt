@@ -1,0 +1,5 @@
+https://wordpress.org/plugins/redirection/
+https://wordpress.org/plugins/autodescription/
+https://wordpress.org/plugins/w3-total-cache/
+https://wordpress.org/plugins/yet-another-related-posts-plugin/
+https://wordpress.org/plugins/wp-optimize/
